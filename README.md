@@ -6,7 +6,9 @@ Please see the demo https://youtu.be/srEN2IhzVpQ**
 ## Note:
 **When running The Expenses Report, the workbook and the worksheet are  automatically locked. If you wanted to unlocked them, you must delete the 
 whole "ExpRep..." Worksheets. 
-How to delete the worksheet, you must watch the demo. Thank you.**
+How to delete the worksheet, please follow this link https://github.com/kakkarja/ER/wiki**
 
 **How to install Add-In please folow this link 
 https://github.com/kakkarja/DS/wiki**
+
+### Expenses Report has its own tab. It does not need to be activated through a keyboard shortcut.
